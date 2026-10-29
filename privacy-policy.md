@@ -51,7 +51,7 @@ Fresh Note is designed with a **privacy-by-default, local-first architecture**:
 - **No Intermediary:** Ordinary Labs operates no intermediate proxy servers. All communication occurs directly between your device and Google's authenticated endpoints. We never receive or store your Google account credentials or passwords.
 
 ### D. Advertising and Diagnostic Data (Google AdMob)
-Fresh Note utilizes **Google AdMob** (publisher ID: `pub-2350698868752164`) to display advertisements in the free tier of the app. The Google Mobile Ads SDK may collect and process certain device information to provide and personalize ads, limit fraud, and track performance.
+Fresh Note utilizes **Google AdMob** (publisher ID: `pub-6762588093607118`) to display advertisements in the free tier of the app. The Google Mobile Ads SDK may collect and process certain device information to provide and personalize ads, limit fraud, and track performance.
 - **Identifiers Collected by AdMob:** Android Advertising ID (`AD_ID`), approximate IP address, and technical device identifiers (model, OS version).
 - **Diagnostics:** Crash logs, app performance metrics, and ad interaction events.
 - **Ad Deactivation via "Remove Ads":** When you purchase the optional, one-time "Remove Ads" in-app product, **all banner, native, and interstitial advertisements are completely deactivated**, and no further ad requests or ad-tracking events are initiated by the application.
