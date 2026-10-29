@@ -1,3 +1,7 @@
+---
+permalink: /privacy-policy.html
+---
+
 # Privacy Policy for Fresh Note
 
 **Effective Date:** October 25, 2026  
